@@ -18,4 +18,5 @@
 <h1 align="center">
   <b> 𝙃𝙚𝙧𝙤𝙠𝙪 𝘿𝙚𝙥𝙡𝙤𝙮</b>
 </h1>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mahesh953-hub/GROUP-MANAGER)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mahesh953-hub/GROUP-MANAGER.git)
