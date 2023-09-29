@@ -49,7 +49,7 @@ dispatcher.add_handler(SHELL_HANDLER)
 __mod_name__ = "Shell"
 __command_list__ = ["sh"]
 __handlers__ = [SHELL_HANDLER]
-__help__ """ Exᴄᴜᴛᴇ Cᴏᴍᴍᴀɴᴅs Iɴ Sʜᴇʟʟ 
+__help__ = """ Exᴄᴜᴛᴇ Cᴏᴍᴍᴀɴᴅs Iɴ Sʜᴇʟʟ 
 
 𝘽𝙮 [𓆩｡</𝙌> ｡𓆪 #𝙇𝙚𝙨𝙨𝘼𝙘𝙩𝙞𝙫𝙚](https://t.me/@AnDrOiiiDUsEr)
 """
